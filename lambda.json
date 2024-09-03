@@ -1,1 +1,16 @@
 
+{
+  "manifestIdentifier": "my-lambda-manifest",
+  "gitFetchType": "Latest from Branch",
+  "branch": "main",
+  "fileFolderPath": "lambda_function.zip",
+  "handler": "my_lambda_function.handler",
+  "runtime": "python3.8",
+  "memorySize": 128,
+  "timeout": 3,
+  "environmentVariables": {
+    "KEY1": "value1",
+    "KEY2": "value2"
+  },
+  "roleArn": "arn:aws:iam::381492246543:role/execution_role"
+}
