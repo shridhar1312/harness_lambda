@@ -4,7 +4,7 @@
   "gitFetchType": "Latest from Branch",
   "branch": "main",
    "functionName": "my_lambda_function1",
-  "fileFolderPath": "lambda_function.zip",
+  "fileFolderPath": "myart131211/artifacts/phfDataLoading.zip",
   "handler": "my_lambda_function.handler",
   "runtime": "python3.8",
   "memorySize": 128,
