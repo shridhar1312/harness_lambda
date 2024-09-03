@@ -3,6 +3,7 @@
   "manifestIdentifier": "mylambdamanifest",
   "gitFetchType": "Latest from Branch",
   "branch": "main",
+   "functionName": "my_lambda_function1",
   "fileFolderPath": "lambda_function.zip",
   "handler": "my_lambda_function.handler",
   "runtime": "python3.8",
