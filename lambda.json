@@ -1,6 +1,6 @@
 
 {
-  "manifestIdentifier": "my-lambda-manifest",
+  "manifestIdentifier": "mylambdamanifest",
   "gitFetchType": "Latest from Branch",
   "branch": "main",
   "fileFolderPath": "lambda_function.zip",
