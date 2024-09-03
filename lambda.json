@@ -13,5 +13,5 @@
     "KEY1": "value1",
     "KEY2": "value2"
   },
-  "roleArn": "arn:aws:iam::381492246543:role/mylambdarRole"
+  "roleArn": "arn:aws:iam::381491911099:role/mylambdarRole"
 }
